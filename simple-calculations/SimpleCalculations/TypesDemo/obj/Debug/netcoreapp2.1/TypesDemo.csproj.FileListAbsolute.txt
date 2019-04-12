@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\TypesDemo\bin\Debug\netcoreapp2.1\TypesDemo.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\TypesDemo\bin\Debug\netcoreapp2.1\TypesDemo.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\TypesDemo\bin\Debug\netcoreapp2.1\TypesDemo.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\TypesDemo\bin\Debug\netcoreapp2.1\TypesDemo.dll
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\TypesDemo\bin\Debug\netcoreapp2.1\TypesDemo.pdb
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\TypesDemo\obj\Debug\netcoreapp2.1\TypesDemo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\TypesDemo\obj\Debug\netcoreapp2.1\TypesDemo.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\TypesDemo\obj\Debug\netcoreapp2.1\TypesDemo.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\TypesDemo\obj\Debug\netcoreapp2.1\TypesDemo.dll
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\TypesDemo\obj\Debug\netcoreapp2.1\TypesDemo.pdb

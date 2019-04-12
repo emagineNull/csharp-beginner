@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\BasicOperators\bin\Debug\netcoreapp2.1\BasicOperators.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\BasicOperators\bin\Debug\netcoreapp2.1\BasicOperators.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\BasicOperators\bin\Debug\netcoreapp2.1\BasicOperators.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\BasicOperators\bin\Debug\netcoreapp2.1\BasicOperators.dll
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\BasicOperators\bin\Debug\netcoreapp2.1\BasicOperators.pdb
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\BasicOperators\obj\Debug\netcoreapp2.1\BasicOperators.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\BasicOperators\obj\Debug\netcoreapp2.1\BasicOperators.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\BasicOperators\obj\Debug\netcoreapp2.1\BasicOperators.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\BasicOperators\obj\Debug\netcoreapp2.1\BasicOperators.dll
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\BasicOperators\obj\Debug\netcoreapp2.1\BasicOperators.pdb
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\BasicOperators\obj\Debug\netcoreapp2.1\BasicOperators.csprojAssemblyReference.cache

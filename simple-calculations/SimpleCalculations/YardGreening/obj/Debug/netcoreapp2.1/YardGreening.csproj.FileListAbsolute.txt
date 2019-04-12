@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\YardGreening\bin\Debug\netcoreapp2.1\YardGreening.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\YardGreening\bin\Debug\netcoreapp2.1\YardGreening.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\YardGreening\bin\Debug\netcoreapp2.1\YardGreening.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\YardGreening\bin\Debug\netcoreapp2.1\YardGreening.dll
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\YardGreening\bin\Debug\netcoreapp2.1\YardGreening.pdb
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\YardGreening\obj\Debug\netcoreapp2.1\YardGreening.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\YardGreening\obj\Debug\netcoreapp2.1\YardGreening.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\YardGreening\obj\Debug\netcoreapp2.1\YardGreening.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\YardGreening\obj\Debug\netcoreapp2.1\YardGreening.dll
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\YardGreening\obj\Debug\netcoreapp2.1\YardGreening.pdb

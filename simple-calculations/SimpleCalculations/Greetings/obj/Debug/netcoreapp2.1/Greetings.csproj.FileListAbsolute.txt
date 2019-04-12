@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\Greetings\bin\Debug\netcoreapp2.1\Greetings.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\Greetings\bin\Debug\netcoreapp2.1\Greetings.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\Greetings\bin\Debug\netcoreapp2.1\Greetings.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\Greetings\bin\Debug\netcoreapp2.1\Greetings.dll
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\Greetings\bin\Debug\netcoreapp2.1\Greetings.pdb
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\Greetings\obj\Debug\netcoreapp2.1\Greetings.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\Greetings\obj\Debug\netcoreapp2.1\Greetings.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\Greetings\obj\Debug\netcoreapp2.1\Greetings.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\Greetings\obj\Debug\netcoreapp2.1\Greetings.dll
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\Greetings\obj\Debug\netcoreapp2.1\Greetings.pdb
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\Greetings\obj\Debug\netcoreapp2.1\Greetings.csprojAssemblyReference.cache

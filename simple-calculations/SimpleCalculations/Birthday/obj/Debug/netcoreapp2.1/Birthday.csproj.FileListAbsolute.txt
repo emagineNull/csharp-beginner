@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\Birthday\bin\Debug\netcoreapp2.1\Birthday.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\Birthday\bin\Debug\netcoreapp2.1\Birthday.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\Birthday\bin\Debug\netcoreapp2.1\Birthday.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\Birthday\bin\Debug\netcoreapp2.1\Birthday.dll
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\Birthday\bin\Debug\netcoreapp2.1\Birthday.pdb
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\Birthday\obj\Debug\netcoreapp2.1\Birthday.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\Birthday\obj\Debug\netcoreapp2.1\Birthday.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\Birthday\obj\Debug\netcoreapp2.1\Birthday.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\Birthday\obj\Debug\netcoreapp2.1\Birthday.dll
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\Birthday\obj\Debug\netcoreapp2.1\Birthday.pdb
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\Birthday\obj\Debug\netcoreapp2.1\Birthday.csprojAssemblyReference.cache

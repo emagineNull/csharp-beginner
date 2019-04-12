@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\ConcatenateData\bin\Debug\netcoreapp2.1\ConcatenateData.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\ConcatenateData\bin\Debug\netcoreapp2.1\ConcatenateData.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\ConcatenateData\bin\Debug\netcoreapp2.1\ConcatenateData.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\ConcatenateData\bin\Debug\netcoreapp2.1\ConcatenateData.dll
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\ConcatenateData\bin\Debug\netcoreapp2.1\ConcatenateData.pdb
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\ConcatenateData\obj\Debug\netcoreapp2.1\ConcatenateData.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\ConcatenateData\obj\Debug\netcoreapp2.1\ConcatenateData.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\ConcatenateData\obj\Debug\netcoreapp2.1\ConcatenateData.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\ConcatenateData\obj\Debug\netcoreapp2.1\ConcatenateData.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\ConcatenateData\obj\Debug\netcoreapp2.1\ConcatenateData.dll
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\SimpleCalculations\ConcatenateData\obj\Debug\netcoreapp2.1\ConcatenateData.pdb
