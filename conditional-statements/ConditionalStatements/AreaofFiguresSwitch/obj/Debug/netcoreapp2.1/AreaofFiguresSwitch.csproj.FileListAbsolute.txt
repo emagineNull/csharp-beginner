@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\AreaofFiguresSwitch\obj\Debug\netcoreapp2.1\AreaofFiguresSwitch.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\AreaofFiguresSwitch\obj\Debug\netcoreapp2.1\AreaofFiguresSwitch.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\AreaofFiguresSwitch\obj\Debug\netcoreapp2.1\AreaofFiguresSwitch.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\AreaofFiguresSwitch\bin\Debug\netcoreapp2.1\AreaofFiguresSwitch.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\AreaofFiguresSwitch\bin\Debug\netcoreapp2.1\AreaofFiguresSwitch.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\AreaofFiguresSwitch\bin\Debug\netcoreapp2.1\AreaofFiguresSwitch.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\AreaofFiguresSwitch\bin\Debug\netcoreapp2.1\AreaofFiguresSwitch.dll
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\AreaofFiguresSwitch\bin\Debug\netcoreapp2.1\AreaofFiguresSwitch.pdb
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\AreaofFiguresSwitch\obj\Debug\netcoreapp2.1\AreaofFiguresSwitch.dll
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\AreaofFiguresSwitch\obj\Debug\netcoreapp2.1\AreaofFiguresSwitch.pdb

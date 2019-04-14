@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\WorldSwimmingRecord\bin\Debug\netcoreapp2.1\WorldSwimmingRecord.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\WorldSwimmingRecord\bin\Debug\netcoreapp2.1\WorldSwimmingRecord.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\WorldSwimmingRecord\bin\Debug\netcoreapp2.1\WorldSwimmingRecord.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\WorldSwimmingRecord\bin\Debug\netcoreapp2.1\WorldSwimmingRecord.dll
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\WorldSwimmingRecord\bin\Debug\netcoreapp2.1\WorldSwimmingRecord.pdb
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\WorldSwimmingRecord\obj\Debug\netcoreapp2.1\WorldSwimmingRecord.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\WorldSwimmingRecord\obj\Debug\netcoreapp2.1\WorldSwimmingRecord.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\WorldSwimmingRecord\obj\Debug\netcoreapp2.1\WorldSwimmingRecord.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\WorldSwimmingRecord\obj\Debug\netcoreapp2.1\WorldSwimmingRecord.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\WorldSwimmingRecord\obj\Debug\netcoreapp2.1\WorldSwimmingRecord.dll
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\WorldSwimmingRecord\obj\Debug\netcoreapp2.1\WorldSwimmingRecord.pdb

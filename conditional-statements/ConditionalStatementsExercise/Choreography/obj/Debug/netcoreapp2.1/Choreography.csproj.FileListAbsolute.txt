@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\Choreography\bin\Debug\netcoreapp2.1\Choreography.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\Choreography\bin\Debug\netcoreapp2.1\Choreography.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\Choreography\bin\Debug\netcoreapp2.1\Choreography.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\Choreography\bin\Debug\netcoreapp2.1\Choreography.dll
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\Choreography\bin\Debug\netcoreapp2.1\Choreography.pdb
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\Choreography\obj\Debug\netcoreapp2.1\Choreography.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\Choreography\obj\Debug\netcoreapp2.1\Choreography.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\Choreography\obj\Debug\netcoreapp2.1\Choreography.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\Choreography\obj\Debug\netcoreapp2.1\Choreography.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\Choreography\obj\Debug\netcoreapp2.1\Choreography.dll
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\Choreography\obj\Debug\netcoreapp2.1\Choreography.pdb

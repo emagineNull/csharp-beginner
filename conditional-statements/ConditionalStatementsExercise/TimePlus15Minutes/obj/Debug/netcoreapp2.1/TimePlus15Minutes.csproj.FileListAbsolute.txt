@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\TimePlus15Minutes\bin\Debug\netcoreapp2.1\TimePlus15Minutes.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\TimePlus15Minutes\bin\Debug\netcoreapp2.1\TimePlus15Minutes.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\TimePlus15Minutes\bin\Debug\netcoreapp2.1\TimePlus15Minutes.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\TimePlus15Minutes\bin\Debug\netcoreapp2.1\TimePlus15Minutes.dll
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\TimePlus15Minutes\bin\Debug\netcoreapp2.1\TimePlus15Minutes.pdb
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\TimePlus15Minutes\obj\Debug\netcoreapp2.1\TimePlus15Minutes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\TimePlus15Minutes\obj\Debug\netcoreapp2.1\TimePlus15Minutes.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\TimePlus15Minutes\obj\Debug\netcoreapp2.1\TimePlus15Minutes.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\TimePlus15Minutes\obj\Debug\netcoreapp2.1\TimePlus15Minutes.dll
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\TimePlus15Minutes\obj\Debug\netcoreapp2.1\TimePlus15Minutes.pdb

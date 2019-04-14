@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\ToyShop\bin\Debug\netcoreapp2.1\ToyShop.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\ToyShop\bin\Debug\netcoreapp2.1\ToyShop.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\ToyShop\bin\Debug\netcoreapp2.1\ToyShop.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\ToyShop\bin\Debug\netcoreapp2.1\ToyShop.dll
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\ToyShop\bin\Debug\netcoreapp2.1\ToyShop.pdb
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\ToyShop\obj\Debug\netcoreapp2.1\ToyShop.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\ToyShop\obj\Debug\netcoreapp2.1\ToyShop.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\ToyShop\obj\Debug\netcoreapp2.1\ToyShop.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\ToyShop\obj\Debug\netcoreapp2.1\ToyShop.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\ToyShop\obj\Debug\netcoreapp2.1\ToyShop.dll
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\ToyShop\obj\Debug\netcoreapp2.1\ToyShop.pdb

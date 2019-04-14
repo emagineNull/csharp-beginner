@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\SumSeconds\bin\Debug\netcoreapp2.1\SumSeconds.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\SumSeconds\bin\Debug\netcoreapp2.1\SumSeconds.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\SumSeconds\bin\Debug\netcoreapp2.1\SumSeconds.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\SumSeconds\bin\Debug\netcoreapp2.1\SumSeconds.dll
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\SumSeconds\bin\Debug\netcoreapp2.1\SumSeconds.pdb
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\SumSeconds\obj\Debug\netcoreapp2.1\SumSeconds.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\SumSeconds\obj\Debug\netcoreapp2.1\SumSeconds.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\SumSeconds\obj\Debug\netcoreapp2.1\SumSeconds.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\SumSeconds\obj\Debug\netcoreapp2.1\SumSeconds.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\SumSeconds\obj\Debug\netcoreapp2.1\SumSeconds.dll
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\SumSeconds\obj\Debug\netcoreapp2.1\SumSeconds.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\ComparisonOperators\bin\Debug\netcoreapp2.1\ComparisonOperators.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\ComparisonOperators\bin\Debug\netcoreapp2.1\ComparisonOperators.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\ComparisonOperators\bin\Debug\netcoreapp2.1\ComparisonOperators.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\ComparisonOperators\bin\Debug\netcoreapp2.1\ComparisonOperators.dll
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\ComparisonOperators\bin\Debug\netcoreapp2.1\ComparisonOperators.pdb
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\ComparisonOperators\obj\Debug\netcoreapp2.1\ComparisonOperators.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\ComparisonOperators\obj\Debug\netcoreapp2.1\ComparisonOperators.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\ComparisonOperators\obj\Debug\netcoreapp2.1\ComparisonOperators.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\ComparisonOperators\obj\Debug\netcoreapp2.1\ComparisonOperators.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\ComparisonOperators\obj\Debug\netcoreapp2.1\ComparisonOperators.dll
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\ComparisonOperators\obj\Debug\netcoreapp2.1\ComparisonOperators.pdb

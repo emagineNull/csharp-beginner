@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\AreaofFigures\bin\Debug\netcoreapp2.1\AreaofFigures.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\AreaofFigures\bin\Debug\netcoreapp2.1\AreaofFigures.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\AreaofFigures\bin\Debug\netcoreapp2.1\AreaofFigures.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\AreaofFigures\bin\Debug\netcoreapp2.1\AreaofFigures.dll
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\AreaofFigures\bin\Debug\netcoreapp2.1\AreaofFigures.pdb
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\AreaofFigures\obj\Debug\netcoreapp2.1\AreaofFigures.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\AreaofFigures\obj\Debug\netcoreapp2.1\AreaofFigures.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\AreaofFigures\obj\Debug\netcoreapp2.1\AreaofFigures.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\AreaofFigures\obj\Debug\netcoreapp2.1\AreaofFigures.dll
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\AreaofFigures\obj\Debug\netcoreapp2.1\AreaofFigures.pdb

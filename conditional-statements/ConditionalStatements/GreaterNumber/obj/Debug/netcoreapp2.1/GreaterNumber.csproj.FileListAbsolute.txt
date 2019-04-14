@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\GreaterNumber\bin\Debug\netcoreapp2.1\GreaterNumber.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\GreaterNumber\bin\Debug\netcoreapp2.1\GreaterNumber.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\GreaterNumber\bin\Debug\netcoreapp2.1\GreaterNumber.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\GreaterNumber\bin\Debug\netcoreapp2.1\GreaterNumber.dll
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\GreaterNumber\bin\Debug\netcoreapp2.1\GreaterNumber.pdb
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\GreaterNumber\obj\Debug\netcoreapp2.1\GreaterNumber.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\GreaterNumber\obj\Debug\netcoreapp2.1\GreaterNumber.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\GreaterNumber\obj\Debug\netcoreapp2.1\GreaterNumber.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\GreaterNumber\obj\Debug\netcoreapp2.1\GreaterNumber.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\GreaterNumber\obj\Debug\netcoreapp2.1\GreaterNumber.dll
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\GreaterNumber\obj\Debug\netcoreapp2.1\GreaterNumber.pdb

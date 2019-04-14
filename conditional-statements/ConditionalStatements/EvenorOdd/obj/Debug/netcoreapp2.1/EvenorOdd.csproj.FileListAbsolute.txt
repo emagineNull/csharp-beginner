@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\EvenorOdd\bin\Debug\netcoreapp2.1\EvenorOdd.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\EvenorOdd\bin\Debug\netcoreapp2.1\EvenorOdd.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\EvenorOdd\bin\Debug\netcoreapp2.1\EvenorOdd.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\EvenorOdd\bin\Debug\netcoreapp2.1\EvenorOdd.dll
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\EvenorOdd\bin\Debug\netcoreapp2.1\EvenorOdd.pdb
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\EvenorOdd\obj\Debug\netcoreapp2.1\EvenorOdd.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\EvenorOdd\obj\Debug\netcoreapp2.1\EvenorOdd.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\EvenorOdd\obj\Debug\netcoreapp2.1\EvenorOdd.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\EvenorOdd\obj\Debug\netcoreapp2.1\EvenorOdd.dll
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatements\EvenorOdd\obj\Debug\netcoreapp2.1\EvenorOdd.pdb

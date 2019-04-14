@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\ThreeBrothers\bin\Debug\netcoreapp2.1\ThreeBrothers.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\ThreeBrothers\bin\Debug\netcoreapp2.1\ThreeBrothers.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\ThreeBrothers\bin\Debug\netcoreapp2.1\ThreeBrothers.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\ThreeBrothers\bin\Debug\netcoreapp2.1\ThreeBrothers.dll
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\ThreeBrothers\bin\Debug\netcoreapp2.1\ThreeBrothers.pdb
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\ThreeBrothers\obj\Debug\netcoreapp2.1\ThreeBrothers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\ThreeBrothers\obj\Debug\netcoreapp2.1\ThreeBrothers.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\ThreeBrothers\obj\Debug\netcoreapp2.1\ThreeBrothers.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\ThreeBrothers\obj\Debug\netcoreapp2.1\ThreeBrothers.dll
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\ThreeBrothers\obj\Debug\netcoreapp2.1\ThreeBrothers.pdb

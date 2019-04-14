@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\MetricConverter\bin\Debug\netcoreapp2.1\MetricConverter.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\MetricConverter\bin\Debug\netcoreapp2.1\MetricConverter.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\MetricConverter\bin\Debug\netcoreapp2.1\MetricConverter.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\MetricConverter\bin\Debug\netcoreapp2.1\MetricConverter.dll
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\MetricConverter\bin\Debug\netcoreapp2.1\MetricConverter.pdb
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\MetricConverter\obj\Debug\netcoreapp2.1\MetricConverter.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\MetricConverter\obj\Debug\netcoreapp2.1\MetricConverter.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\MetricConverter\obj\Debug\netcoreapp2.1\MetricConverter.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\MetricConverter\obj\Debug\netcoreapp2.1\MetricConverter.dll
+C:\Users\User\Desktop\SoftUni\Programming Basics C#\3. Conditional Statements\ConditionalStatementsExercise\MetricConverter\obj\Debug\netcoreapp2.1\MetricConverter.pdb
