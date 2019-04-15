@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\MinNumber\bin\Debug\netcoreapp2.1\MinNumber.deps.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\MinNumber\bin\Debug\netcoreapp2.1\MinNumber.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\MinNumber\bin\Debug\netcoreapp2.1\MinNumber.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\MinNumber\bin\Debug\netcoreapp2.1\MinNumber.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\MinNumber\bin\Debug\netcoreapp2.1\MinNumber.pdb
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\MinNumber\obj\Debug\netcoreapp2.1\MinNumber.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\MinNumber\obj\Debug\netcoreapp2.1\MinNumber.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\MinNumber\obj\Debug\netcoreapp2.1\MinNumber.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\MinNumber\obj\Debug\netcoreapp2.1\MinNumber.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\MinNumber\obj\Debug\netcoreapp2.1\MinNumber.pdb

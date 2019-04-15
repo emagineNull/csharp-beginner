@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\Moving\bin\Debug\netcoreapp2.1\Moving.deps.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\Moving\bin\Debug\netcoreapp2.1\Moving.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\Moving\bin\Debug\netcoreapp2.1\Moving.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\Moving\bin\Debug\netcoreapp2.1\Moving.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\Moving\bin\Debug\netcoreapp2.1\Moving.pdb
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\Moving\obj\Debug\netcoreapp2.1\Moving.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\Moving\obj\Debug\netcoreapp2.1\Moving.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\Moving\obj\Debug\netcoreapp2.1\Moving.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\Moving\obj\Debug\netcoreapp2.1\Moving.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\Moving\obj\Debug\netcoreapp2.1\Moving.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\Moving\obj\Debug\netcoreapp2.1\Moving.pdb

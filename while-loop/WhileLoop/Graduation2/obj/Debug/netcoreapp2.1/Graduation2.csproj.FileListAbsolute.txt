@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\Graduation2\bin\Debug\netcoreapp2.1\Graduation2.deps.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\Graduation2\bin\Debug\netcoreapp2.1\Graduation2.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\Graduation2\bin\Debug\netcoreapp2.1\Graduation2.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\Graduation2\bin\Debug\netcoreapp2.1\Graduation2.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\Graduation2\bin\Debug\netcoreapp2.1\Graduation2.pdb
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\Graduation2\obj\Debug\netcoreapp2.1\Graduation2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\Graduation2\obj\Debug\netcoreapp2.1\Graduation2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\Graduation2\obj\Debug\netcoreapp2.1\Graduation2.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\Graduation2\obj\Debug\netcoreapp2.1\Graduation2.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\Graduation2\obj\Debug\netcoreapp2.1\Graduation2.pdb

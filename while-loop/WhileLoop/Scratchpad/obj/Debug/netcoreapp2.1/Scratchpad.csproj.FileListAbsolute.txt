@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\Scratchpad\bin\Debug\netcoreapp2.1\Scratchpad.deps.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\Scratchpad\bin\Debug\netcoreapp2.1\Scratchpad.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\Scratchpad\bin\Debug\netcoreapp2.1\Scratchpad.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\Scratchpad\bin\Debug\netcoreapp2.1\Scratchpad.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\Scratchpad\bin\Debug\netcoreapp2.1\Scratchpad.pdb
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\Scratchpad\obj\Debug\netcoreapp2.1\Scratchpad.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\Scratchpad\obj\Debug\netcoreapp2.1\Scratchpad.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\Scratchpad\obj\Debug\netcoreapp2.1\Scratchpad.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\Scratchpad\obj\Debug\netcoreapp2.1\Scratchpad.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\Scratchpad\obj\Debug\netcoreapp2.1\Scratchpad.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoop\Scratchpad\obj\Debug\netcoreapp2.1\Scratchpad.pdb
