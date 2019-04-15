@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\Walking\bin\Debug\netcoreapp2.1\Walking.deps.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\Walking\bin\Debug\netcoreapp2.1\Walking.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\Walking\bin\Debug\netcoreapp2.1\Walking.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\Walking\bin\Debug\netcoreapp2.1\Walking.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\Walking\bin\Debug\netcoreapp2.1\Walking.pdb
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\Walking\obj\Debug\netcoreapp2.1\Walking.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\Walking\obj\Debug\netcoreapp2.1\Walking.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\Walking\obj\Debug\netcoreapp2.1\Walking.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\Walking\obj\Debug\netcoreapp2.1\Walking.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\Walking\obj\Debug\netcoreapp2.1\Walking.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\Walking\obj\Debug\netcoreapp2.1\Walking.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\OldBooks\bin\Debug\netcoreapp2.1\OldBooks.deps.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\OldBooks\bin\Debug\netcoreapp2.1\OldBooks.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\OldBooks\bin\Debug\netcoreapp2.1\OldBooks.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\OldBooks\bin\Debug\netcoreapp2.1\OldBooks.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\OldBooks\bin\Debug\netcoreapp2.1\OldBooks.pdb
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\OldBooks\obj\Debug\netcoreapp2.1\OldBooks.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\OldBooks\obj\Debug\netcoreapp2.1\OldBooks.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\OldBooks\obj\Debug\netcoreapp2.1\OldBooks.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\OldBooks\obj\Debug\netcoreapp2.1\OldBooks.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\OldBooks\obj\Debug\netcoreapp2.1\OldBooks.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\OldBooks\obj\Debug\netcoreapp2.1\OldBooks.pdb

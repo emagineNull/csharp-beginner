@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\Vacation\bin\Debug\netcoreapp2.1\Vacation.deps.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\Vacation\bin\Debug\netcoreapp2.1\Vacation.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\Vacation\bin\Debug\netcoreapp2.1\Vacation.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\Vacation\bin\Debug\netcoreapp2.1\Vacation.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\Vacation\bin\Debug\netcoreapp2.1\Vacation.pdb
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\Vacation\obj\Debug\netcoreapp2.1\Vacation.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\Vacation\obj\Debug\netcoreapp2.1\Vacation.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\Vacation\obj\Debug\netcoreapp2.1\Vacation.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\Vacation\obj\Debug\netcoreapp2.1\Vacation.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\Vacation\obj\Debug\netcoreapp2.1\Vacation.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\Vacation\obj\Debug\netcoreapp2.1\Vacation.pdb

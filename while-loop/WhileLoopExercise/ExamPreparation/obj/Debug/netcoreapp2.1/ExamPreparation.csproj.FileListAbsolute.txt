@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\ExamPreparation\bin\Debug\netcoreapp2.1\ExamPreparation.deps.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\ExamPreparation\bin\Debug\netcoreapp2.1\ExamPreparation.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\ExamPreparation\bin\Debug\netcoreapp2.1\ExamPreparation.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\ExamPreparation\bin\Debug\netcoreapp2.1\ExamPreparation.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\ExamPreparation\bin\Debug\netcoreapp2.1\ExamPreparation.pdb
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\ExamPreparation\obj\Debug\netcoreapp2.1\ExamPreparation.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\ExamPreparation\obj\Debug\netcoreapp2.1\ExamPreparation.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\ExamPreparation\obj\Debug\netcoreapp2.1\ExamPreparation.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\ExamPreparation\obj\Debug\netcoreapp2.1\ExamPreparation.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\5. While-loop\WhileLoopExercise\ExamPreparation\obj\Debug\netcoreapp2.1\ExamPreparation.pdb
