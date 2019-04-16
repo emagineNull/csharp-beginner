@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoopExercise\EqualPairs\bin\Debug\netcoreapp2.1\EqualPairs.deps.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoopExercise\EqualPairs\bin\Debug\netcoreapp2.1\EqualPairs.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoopExercise\EqualPairs\bin\Debug\netcoreapp2.1\EqualPairs.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoopExercise\EqualPairs\bin\Debug\netcoreapp2.1\EqualPairs.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoopExercise\EqualPairs\bin\Debug\netcoreapp2.1\EqualPairs.pdb
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoopExercise\EqualPairs\obj\Debug\netcoreapp2.1\EqualPairs.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoopExercise\EqualPairs\obj\Debug\netcoreapp2.1\EqualPairs.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoopExercise\EqualPairs\obj\Debug\netcoreapp2.1\EqualPairs.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoopExercise\EqualPairs\obj\Debug\netcoreapp2.1\EqualPairs.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoopExercise\EqualPairs\obj\Debug\netcoreapp2.1\EqualPairs.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoopExercise\EqualPairs\obj\Debug\netcoreapp2.1\EqualPairs.pdb

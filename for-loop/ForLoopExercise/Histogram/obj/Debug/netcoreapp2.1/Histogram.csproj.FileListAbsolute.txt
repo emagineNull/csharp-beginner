@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoopExercise\Histogram\bin\Debug\netcoreapp2.1\Histogram.deps.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoopExercise\Histogram\bin\Debug\netcoreapp2.1\Histogram.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoopExercise\Histogram\bin\Debug\netcoreapp2.1\Histogram.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoopExercise\Histogram\bin\Debug\netcoreapp2.1\Histogram.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoopExercise\Histogram\bin\Debug\netcoreapp2.1\Histogram.pdb
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoopExercise\Histogram\obj\Debug\netcoreapp2.1\Histogram.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoopExercise\Histogram\obj\Debug\netcoreapp2.1\Histogram.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoopExercise\Histogram\obj\Debug\netcoreapp2.1\Histogram.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoopExercise\Histogram\obj\Debug\netcoreapp2.1\Histogram.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoopExercise\Histogram\obj\Debug\netcoreapp2.1\Histogram.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoopExercise\NumbersEndingIn7\bin\Debug\netcoreapp2.1\NumbersEndingIn7.deps.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoopExercise\NumbersEndingIn7\bin\Debug\netcoreapp2.1\NumbersEndingIn7.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoopExercise\NumbersEndingIn7\bin\Debug\netcoreapp2.1\NumbersEndingIn7.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoopExercise\NumbersEndingIn7\bin\Debug\netcoreapp2.1\NumbersEndingIn7.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoopExercise\NumbersEndingIn7\bin\Debug\netcoreapp2.1\NumbersEndingIn7.pdb
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoopExercise\NumbersEndingIn7\obj\Debug\netcoreapp2.1\NumbersEndingIn7.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoopExercise\NumbersEndingIn7\obj\Debug\netcoreapp2.1\NumbersEndingIn7.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoopExercise\NumbersEndingIn7\obj\Debug\netcoreapp2.1\NumbersEndingIn7.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoopExercise\NumbersEndingIn7\obj\Debug\netcoreapp2.1\NumbersEndingIn7.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoopExercise\NumbersEndingIn7\obj\Debug\netcoreapp2.1\NumbersEndingIn7.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoopExercise\NumbersEndingIn7\obj\Debug\netcoreapp2.1\NumbersEndingIn7.pdb
