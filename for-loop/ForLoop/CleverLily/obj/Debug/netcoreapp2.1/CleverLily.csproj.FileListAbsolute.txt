@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\CleverLily\bin\Debug\netcoreapp2.1\CleverLily.deps.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\CleverLily\bin\Debug\netcoreapp2.1\CleverLily.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\CleverLily\bin\Debug\netcoreapp2.1\CleverLily.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\CleverLily\bin\Debug\netcoreapp2.1\CleverLily.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\CleverLily\bin\Debug\netcoreapp2.1\CleverLily.pdb
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\CleverLily\obj\Debug\netcoreapp2.1\CleverLily.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\CleverLily\obj\Debug\netcoreapp2.1\CleverLily.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\CleverLily\obj\Debug\netcoreapp2.1\CleverLily.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\CleverLily\obj\Debug\netcoreapp2.1\CleverLily.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\CleverLily\obj\Debug\netcoreapp2.1\CleverLily.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\CleverLily\obj\Debug\netcoreapp2.1\CleverLily.pdb

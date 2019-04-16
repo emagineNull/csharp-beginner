@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\LatinLetters\bin\Debug\netcoreapp2.1\LatinLetters.deps.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\LatinLetters\bin\Debug\netcoreapp2.1\LatinLetters.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\LatinLetters\bin\Debug\netcoreapp2.1\LatinLetters.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\LatinLetters\bin\Debug\netcoreapp2.1\LatinLetters.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\LatinLetters\bin\Debug\netcoreapp2.1\LatinLetters.pdb
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\LatinLetters\obj\Debug\netcoreapp2.1\LatinLetters.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\LatinLetters\obj\Debug\netcoreapp2.1\LatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\LatinLetters\obj\Debug\netcoreapp2.1\LatinLetters.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\LatinLetters\obj\Debug\netcoreapp2.1\LatinLetters.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\LatinLetters\obj\Debug\netcoreapp2.1\LatinLetters.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\LatinLetters\obj\Debug\netcoreapp2.1\LatinLetters.pdb

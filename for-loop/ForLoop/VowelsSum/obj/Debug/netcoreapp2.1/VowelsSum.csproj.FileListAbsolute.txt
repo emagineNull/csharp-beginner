@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\VowelsSum\bin\Debug\netcoreapp2.1\VowelsSum.deps.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\VowelsSum\bin\Debug\netcoreapp2.1\VowelsSum.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\VowelsSum\bin\Debug\netcoreapp2.1\VowelsSum.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\VowelsSum\bin\Debug\netcoreapp2.1\VowelsSum.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\VowelsSum\bin\Debug\netcoreapp2.1\VowelsSum.pdb
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\VowelsSum\obj\Debug\netcoreapp2.1\VowelsSum.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\VowelsSum\obj\Debug\netcoreapp2.1\VowelsSum.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\VowelsSum\obj\Debug\netcoreapp2.1\VowelsSum.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\VowelsSum\obj\Debug\netcoreapp2.1\VowelsSum.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\VowelsSum\obj\Debug\netcoreapp2.1\VowelsSum.pdb

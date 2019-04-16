@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\OddEvenSum\bin\Debug\netcoreapp2.1\OddEvenSum.deps.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\OddEvenSum\bin\Debug\netcoreapp2.1\OddEvenSum.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\OddEvenSum\bin\Debug\netcoreapp2.1\OddEvenSum.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\OddEvenSum\bin\Debug\netcoreapp2.1\OddEvenSum.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\OddEvenSum\bin\Debug\netcoreapp2.1\OddEvenSum.pdb
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\OddEvenSum\obj\Debug\netcoreapp2.1\OddEvenSum.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\OddEvenSum\obj\Debug\netcoreapp2.1\OddEvenSum.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\OddEvenSum\obj\Debug\netcoreapp2.1\OddEvenSum.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\OddEvenSum\obj\Debug\netcoreapp2.1\OddEvenSum.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\OddEvenSum\obj\Debug\netcoreapp2.1\OddEvenSum.pdb

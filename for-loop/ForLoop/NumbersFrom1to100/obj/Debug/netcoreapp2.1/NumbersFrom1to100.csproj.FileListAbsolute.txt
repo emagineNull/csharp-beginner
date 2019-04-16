@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\NumbersFrom1to100\bin\Debug\netcoreapp2.1\NumbersFrom1to100.deps.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\NumbersFrom1to100\bin\Debug\netcoreapp2.1\NumbersFrom1to100.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\NumbersFrom1to100\bin\Debug\netcoreapp2.1\NumbersFrom1to100.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\NumbersFrom1to100\bin\Debug\netcoreapp2.1\NumbersFrom1to100.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\NumbersFrom1to100\bin\Debug\netcoreapp2.1\NumbersFrom1to100.pdb
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\NumbersFrom1to100\obj\Debug\netcoreapp2.1\NumbersFrom1to100.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\NumbersFrom1to100\obj\Debug\netcoreapp2.1\NumbersFrom1to100.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\NumbersFrom1to100\obj\Debug\netcoreapp2.1\NumbersFrom1to100.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\NumbersFrom1to100\obj\Debug\netcoreapp2.1\NumbersFrom1to100.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\NumbersFrom1to100\obj\Debug\netcoreapp2.1\NumbersFrom1to100.pdb

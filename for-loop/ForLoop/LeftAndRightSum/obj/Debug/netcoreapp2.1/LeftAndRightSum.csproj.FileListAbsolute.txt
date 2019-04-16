@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\LeftAndRightSum\bin\Debug\netcoreapp2.1\LeftAndRightSum.deps.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\LeftAndRightSum\bin\Debug\netcoreapp2.1\LeftAndRightSum.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\LeftAndRightSum\bin\Debug\netcoreapp2.1\LeftAndRightSum.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\LeftAndRightSum\bin\Debug\netcoreapp2.1\LeftAndRightSum.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\LeftAndRightSum\bin\Debug\netcoreapp2.1\LeftAndRightSum.pdb
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\LeftAndRightSum\obj\Debug\netcoreapp2.1\LeftAndRightSum.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\LeftAndRightSum\obj\Debug\netcoreapp2.1\LeftAndRightSum.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\LeftAndRightSum\obj\Debug\netcoreapp2.1\LeftAndRightSum.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\LeftAndRightSum\obj\Debug\netcoreapp2.1\LeftAndRightSum.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\6. For-Loop\ForLoop\LeftAndRightSum\obj\Debug\netcoreapp2.1\LeftAndRightSum.pdb
