@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoopsExercise\Fishing\bin\Debug\netcoreapp2.1\Fishing.deps.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoopsExercise\Fishing\bin\Debug\netcoreapp2.1\Fishing.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoopsExercise\Fishing\bin\Debug\netcoreapp2.1\Fishing.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoopsExercise\Fishing\bin\Debug\netcoreapp2.1\Fishing.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoopsExercise\Fishing\bin\Debug\netcoreapp2.1\Fishing.pdb
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoopsExercise\Fishing\obj\Debug\netcoreapp2.1\Fishing.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoopsExercise\Fishing\obj\Debug\netcoreapp2.1\Fishing.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoopsExercise\Fishing\obj\Debug\netcoreapp2.1\Fishing.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoopsExercise\Fishing\obj\Debug\netcoreapp2.1\Fishing.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoopsExercise\Fishing\obj\Debug\netcoreapp2.1\Fishing.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoopsExercise\Fishing\obj\Debug\netcoreapp2.1\Fishing.pdb

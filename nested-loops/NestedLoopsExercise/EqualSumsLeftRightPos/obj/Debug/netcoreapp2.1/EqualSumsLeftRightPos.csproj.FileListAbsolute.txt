@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoopsExercise\EqualSumsLeftRightPos\bin\Debug\netcoreapp2.1\EqualSumsLeftRightPos.deps.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoopsExercise\EqualSumsLeftRightPos\bin\Debug\netcoreapp2.1\EqualSumsLeftRightPos.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoopsExercise\EqualSumsLeftRightPos\bin\Debug\netcoreapp2.1\EqualSumsLeftRightPos.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoopsExercise\EqualSumsLeftRightPos\bin\Debug\netcoreapp2.1\EqualSumsLeftRightPos.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoopsExercise\EqualSumsLeftRightPos\bin\Debug\netcoreapp2.1\EqualSumsLeftRightPos.pdb
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoopsExercise\EqualSumsLeftRightPos\obj\Debug\netcoreapp2.1\EqualSumsLeftRightPos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoopsExercise\EqualSumsLeftRightPos\obj\Debug\netcoreapp2.1\EqualSumsLeftRightPos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoopsExercise\EqualSumsLeftRightPos\obj\Debug\netcoreapp2.1\EqualSumsLeftRightPos.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoopsExercise\EqualSumsLeftRightPos\obj\Debug\netcoreapp2.1\EqualSumsLeftRightPos.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoopsExercise\EqualSumsLeftRightPos\obj\Debug\netcoreapp2.1\EqualSumsLeftRightPos.pdb
