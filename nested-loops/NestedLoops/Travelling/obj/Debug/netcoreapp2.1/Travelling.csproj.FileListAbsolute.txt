@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoops\Travelling\bin\Debug\netcoreapp2.1\Travelling.deps.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoops\Travelling\bin\Debug\netcoreapp2.1\Travelling.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoops\Travelling\bin\Debug\netcoreapp2.1\Travelling.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoops\Travelling\bin\Debug\netcoreapp2.1\Travelling.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoops\Travelling\bin\Debug\netcoreapp2.1\Travelling.pdb
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoops\Travelling\obj\Debug\netcoreapp2.1\Travelling.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoops\Travelling\obj\Debug\netcoreapp2.1\Travelling.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoops\Travelling\obj\Debug\netcoreapp2.1\Travelling.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoops\Travelling\obj\Debug\netcoreapp2.1\Travelling.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoops\Travelling\obj\Debug\netcoreapp2.1\Travelling.pdb

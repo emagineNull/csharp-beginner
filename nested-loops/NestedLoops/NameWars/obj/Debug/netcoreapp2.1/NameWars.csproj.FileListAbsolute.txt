@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoops\NameWars\bin\Debug\netcoreapp2.1\NameWars.deps.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoops\NameWars\bin\Debug\netcoreapp2.1\NameWars.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoops\NameWars\bin\Debug\netcoreapp2.1\NameWars.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoops\NameWars\bin\Debug\netcoreapp2.1\NameWars.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoops\NameWars\bin\Debug\netcoreapp2.1\NameWars.pdb
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoops\NameWars\obj\Debug\netcoreapp2.1\NameWars.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoops\NameWars\obj\Debug\netcoreapp2.1\NameWars.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoops\NameWars\obj\Debug\netcoreapp2.1\NameWars.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoops\NameWars\obj\Debug\netcoreapp2.1\NameWars.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoops\NameWars\obj\Debug\netcoreapp2.1\NameWars.pdb

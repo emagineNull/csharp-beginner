@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoops\MagicNumbers\bin\Debug\netcoreapp2.1\MagicNumbers.deps.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoops\MagicNumbers\bin\Debug\netcoreapp2.1\MagicNumbers.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoops\MagicNumbers\bin\Debug\netcoreapp2.1\MagicNumbers.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoops\MagicNumbers\bin\Debug\netcoreapp2.1\MagicNumbers.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoops\MagicNumbers\bin\Debug\netcoreapp2.1\MagicNumbers.pdb
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoops\MagicNumbers\obj\Debug\netcoreapp2.1\MagicNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoops\MagicNumbers\obj\Debug\netcoreapp2.1\MagicNumbers.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoops\MagicNumbers\obj\Debug\netcoreapp2.1\MagicNumbers.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoops\MagicNumbers\obj\Debug\netcoreapp2.1\MagicNumbers.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoops\MagicNumbers\obj\Debug\netcoreapp2.1\MagicNumbers.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoops\CookieFactory\bin\Debug\netcoreapp2.1\CookieFactory.deps.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoops\CookieFactory\bin\Debug\netcoreapp2.1\CookieFactory.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoops\CookieFactory\bin\Debug\netcoreapp2.1\CookieFactory.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoops\CookieFactory\bin\Debug\netcoreapp2.1\CookieFactory.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoops\CookieFactory\bin\Debug\netcoreapp2.1\CookieFactory.pdb
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoops\CookieFactory\obj\Debug\netcoreapp2.1\CookieFactory.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoops\CookieFactory\obj\Debug\netcoreapp2.1\CookieFactory.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoops\CookieFactory\obj\Debug\netcoreapp2.1\CookieFactory.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoops\CookieFactory\obj\Debug\netcoreapp2.1\CookieFactory.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\7. Nested Loops\NestedLoops\CookieFactory\obj\Debug\netcoreapp2.1\CookieFactory.pdb
