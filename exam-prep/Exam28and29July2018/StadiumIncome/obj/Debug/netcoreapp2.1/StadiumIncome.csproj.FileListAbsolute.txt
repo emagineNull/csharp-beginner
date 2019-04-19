@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\ExamPrep\StadiumIncome\obj\Debug\netcoreapp2.1\StadiumIncome.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\ExamPrep\StadiumIncome\obj\Debug\netcoreapp2.1\StadiumIncome.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\ExamPrep\StadiumIncome\obj\Debug\netcoreapp2.1\StadiumIncome.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\ExamPrep\StadiumIncome\obj\Debug\netcoreapp2.1\StadiumIncome.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\ExamPrep\StadiumIncome\bin\Debug\netcoreapp2.1\StadiumIncome.deps.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\ExamPrep\StadiumIncome\bin\Debug\netcoreapp2.1\StadiumIncome.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\ExamPrep\StadiumIncome\bin\Debug\netcoreapp2.1\StadiumIncome.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\ExamPrep\StadiumIncome\bin\Debug\netcoreapp2.1\StadiumIncome.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\ExamPrep\StadiumIncome\bin\Debug\netcoreapp2.1\StadiumIncome.pdb
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\ExamPrep\StadiumIncome\obj\Debug\netcoreapp2.1\StadiumIncome.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\ExamPrep\StadiumIncome\obj\Debug\netcoreapp2.1\StadiumIncome.pdb

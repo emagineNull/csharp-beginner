@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\ExamPrep\BeerAndChips\bin\Debug\netcoreapp2.1\BeerAndChips.deps.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\ExamPrep\BeerAndChips\bin\Debug\netcoreapp2.1\BeerAndChips.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\ExamPrep\BeerAndChips\bin\Debug\netcoreapp2.1\BeerAndChips.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\ExamPrep\BeerAndChips\bin\Debug\netcoreapp2.1\BeerAndChips.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\ExamPrep\BeerAndChips\bin\Debug\netcoreapp2.1\BeerAndChips.pdb
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\ExamPrep\BeerAndChips\obj\Debug\netcoreapp2.1\BeerAndChips.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\ExamPrep\BeerAndChips\obj\Debug\netcoreapp2.1\BeerAndChips.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\ExamPrep\BeerAndChips\obj\Debug\netcoreapp2.1\BeerAndChips.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\ExamPrep\BeerAndChips\obj\Debug\netcoreapp2.1\BeerAndChips.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\ExamPrep\BeerAndChips\obj\Debug\netcoreapp2.1\BeerAndChips.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\ExamPrep\BeerAndChips\obj\Debug\netcoreapp2.1\BeerAndChips.pdb

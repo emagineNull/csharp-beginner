@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\ExamPrep\FanShop\bin\Debug\netcoreapp2.1\FanShop.deps.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\ExamPrep\FanShop\bin\Debug\netcoreapp2.1\FanShop.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\ExamPrep\FanShop\bin\Debug\netcoreapp2.1\FanShop.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\ExamPrep\FanShop\bin\Debug\netcoreapp2.1\FanShop.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\ExamPrep\FanShop\bin\Debug\netcoreapp2.1\FanShop.pdb
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\ExamPrep\FanShop\obj\Debug\netcoreapp2.1\FanShop.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\ExamPrep\FanShop\obj\Debug\netcoreapp2.1\FanShop.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\ExamPrep\FanShop\obj\Debug\netcoreapp2.1\FanShop.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\ExamPrep\FanShop\obj\Debug\netcoreapp2.1\FanShop.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\ExamPrep\FanShop\obj\Debug\netcoreapp2.1\FanShop.pdb
