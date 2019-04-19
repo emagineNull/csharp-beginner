@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\CinemaTickets\bin\Debug\netcoreapp2.1\CinemaTickets.deps.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\CinemaTickets\bin\Debug\netcoreapp2.1\CinemaTickets.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\CinemaTickets\bin\Debug\netcoreapp2.1\CinemaTickets.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\CinemaTickets\bin\Debug\netcoreapp2.1\CinemaTickets.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\CinemaTickets\bin\Debug\netcoreapp2.1\CinemaTickets.pdb
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\CinemaTickets\obj\Debug\netcoreapp2.1\CinemaTickets.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\CinemaTickets\obj\Debug\netcoreapp2.1\CinemaTickets.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\CinemaTickets\obj\Debug\netcoreapp2.1\CinemaTickets.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\CinemaTickets\obj\Debug\netcoreapp2.1\CinemaTickets.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\CinemaTickets\obj\Debug\netcoreapp2.1\CinemaTickets.pdb

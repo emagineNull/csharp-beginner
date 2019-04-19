@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\CinemaVoucher\bin\Debug\netcoreapp2.1\CinemaVoucher.deps.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\CinemaVoucher\bin\Debug\netcoreapp2.1\CinemaVoucher.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\CinemaVoucher\bin\Debug\netcoreapp2.1\CinemaVoucher.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\CinemaVoucher\bin\Debug\netcoreapp2.1\CinemaVoucher.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\CinemaVoucher\bin\Debug\netcoreapp2.1\CinemaVoucher.pdb
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\CinemaVoucher\obj\Debug\netcoreapp2.1\CinemaVoucher.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\CinemaVoucher\obj\Debug\netcoreapp2.1\CinemaVoucher.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\CinemaVoucher\obj\Debug\netcoreapp2.1\CinemaVoucher.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\CinemaVoucher\obj\Debug\netcoreapp2.1\CinemaVoucher.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\CinemaVoucher\obj\Debug\netcoreapp2.1\CinemaVoucher.pdb
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\CinemaVoucher\obj\Debug\netcoreapp2.1\CinemaVoucher.csprojAssemblyReference.cache

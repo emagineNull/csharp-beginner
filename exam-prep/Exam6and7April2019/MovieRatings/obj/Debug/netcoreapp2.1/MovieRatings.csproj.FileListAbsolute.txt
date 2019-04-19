@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\MovieRatings\bin\Debug\netcoreapp2.1\MovieRatings.deps.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\MovieRatings\bin\Debug\netcoreapp2.1\MovieRatings.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\MovieRatings\bin\Debug\netcoreapp2.1\MovieRatings.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\MovieRatings\bin\Debug\netcoreapp2.1\MovieRatings.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\MovieRatings\bin\Debug\netcoreapp2.1\MovieRatings.pdb
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\MovieRatings\obj\Debug\netcoreapp2.1\MovieRatings.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\MovieRatings\obj\Debug\netcoreapp2.1\MovieRatings.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\MovieRatings\obj\Debug\netcoreapp2.1\MovieRatings.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\MovieRatings\obj\Debug\netcoreapp2.1\MovieRatings.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\MovieRatings\obj\Debug\netcoreapp2.1\MovieRatings.pdb

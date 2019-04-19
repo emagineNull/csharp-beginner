@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\OscarsCeremony\bin\Debug\netcoreapp2.1\OscarsCeremony.deps.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\OscarsCeremony\bin\Debug\netcoreapp2.1\OscarsCeremony.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\OscarsCeremony\bin\Debug\netcoreapp2.1\OscarsCeremony.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\OscarsCeremony\bin\Debug\netcoreapp2.1\OscarsCeremony.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\OscarsCeremony\bin\Debug\netcoreapp2.1\OscarsCeremony.pdb
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\OscarsCeremony\obj\Debug\netcoreapp2.1\OscarsCeremony.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\OscarsCeremony\obj\Debug\netcoreapp2.1\OscarsCeremony.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\OscarsCeremony\obj\Debug\netcoreapp2.1\OscarsCeremony.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\OscarsCeremony\obj\Debug\netcoreapp2.1\OscarsCeremony.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\OscarsCeremony\obj\Debug\netcoreapp2.1\OscarsCeremony.dll
+C:\Users\User\Desktop\SoftUni\programming-basics-c#\8. Exam Preparation\Exam6and7April2019\OscarsCeremony\obj\Debug\netcoreapp2.1\OscarsCeremony.pdb
